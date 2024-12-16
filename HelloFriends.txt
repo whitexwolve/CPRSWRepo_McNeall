@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hallo zurück von Kemmer!
+=======
+Hallo zurück von David
+>>>>>>> 4562b55cbbddb391eaeb3710db8886720b6fe240
